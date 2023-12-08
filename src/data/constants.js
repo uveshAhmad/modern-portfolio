@@ -364,7 +364,7 @@ export const projects = [
       
       This project served as an opportunity to demonstrate proficiency in web application development, real-time communication, and database management while delivering an enjoyable and feature-rich online chess experience.`,
     image:
-      "https://private-user-images.githubusercontent.com/115268659/288312363-4cac3a5c-cbc7-4a6f-8686-2e159bfcbef5.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE4NDUzNzMsIm5iZiI6MTcwMTg0NTA3MywicGF0aCI6Ii8xMTUyNjg2NTkvMjg4MzEyMzYzLTRjYWMzYTVjLWNiYzctNGE2Zi04Njg2LTJlMTU5YmZjYmVmNS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIwNlQwNjQ0MzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03ZGMyMGQyMjJhMzM2M2UwMTMzYjk4NzNlMTFlMjU0NDA0ZDFmZDNlNDI2ZTQ0MjM3ZmY1ZTIyMTFiYWFlMjUxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.uDlwrkrLlGTw2yjay61D91fDEdbsKi9jEuAZE3FWMmE",
+      "./images/chatApp",
     tags: ["HTML","CSS" ,"JavaScript", "EJS" ,"Node Js", "Express Js","SocketIO" ,"MySQL" ,"Redis"],
     category: "web app",
     github: "https://github.com/uveshAhmad/Online-Chess-Game",
