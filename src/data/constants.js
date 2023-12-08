@@ -1,4 +1,3 @@
-const  testing=  "../images/chech.jpg"
 export const Bio = {
   name: "Uvesh Ahmad",
   roles: [
@@ -365,7 +364,7 @@ export const projects = [
       
       This project served as an opportunity to demonstrate proficiency in web application development, real-time communication, and database management while delivering an enjoyable and feature-rich online chess experience.`,
     image:
-       testing,
+       "https://photos.google.com/photo/AF1QipNKGyXANGzuMlYOUXMsgv8IR1rufLlVOJO7lvcH",
     tags: ["HTML","CSS" ,"JavaScript", "EJS" ,"Node Js", "Express Js","SocketIO" ,"MySQL" ,"Redis"],
     category: "web app",
     github: "https://github.com/uveshAhmad/Online-Chess-Game",
