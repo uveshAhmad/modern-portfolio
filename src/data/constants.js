@@ -364,7 +364,7 @@ export const projects = [
       
       This project served as an opportunity to demonstrate proficiency in web application development, real-time communication, and database management while delivering an enjoyable and feature-rich online chess experience.`,
     image:
-      "https://i.ibb.co/pd68GPy/chatApp.png",
+      "../images/chech.jpg",
     tags: ["HTML","CSS" ,"JavaScript", "EJS" ,"Node Js", "Express Js","SocketIO" ,"MySQL" ,"Redis"],
     category: "web app",
     github: "https://github.com/uveshAhmad/Online-Chess-Game",
