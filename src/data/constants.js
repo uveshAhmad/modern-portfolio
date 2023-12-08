@@ -1,3 +1,4 @@
+const  testing=  "../images/chech.jpg"
 export const Bio = {
   name: "Uvesh Ahmad",
   roles: [
@@ -364,7 +365,7 @@ export const projects = [
       
       This project served as an opportunity to demonstrate proficiency in web application development, real-time communication, and database management while delivering an enjoyable and feature-rich online chess experience.`,
     image:
-      "../images/chech.jpg",
+       testing,
     tags: ["HTML","CSS" ,"JavaScript", "EJS" ,"Node Js", "Express Js","SocketIO" ,"MySQL" ,"Redis"],
     category: "web app",
     github: "https://github.com/uveshAhmad/Online-Chess-Game",
@@ -630,3 +631,5 @@ export const TimeLineData = [
   { year: 2020, text: "Shared my projects with the world" },
   { year: 2021, text: "Started my own platform" },
 ];
+
+
