@@ -386,7 +386,7 @@ export const projects = [
     description:
       "Users can create accounts, log in, and securely authenticate using JWT tokens.MongoDB is employed to store user profiles, chat histories, and relevant data.OpenAI's GPT-3 is used for natural language understanding and generation.Implementing a RESTful API using ExpressJS to facilitate communication between the frontend and backend.Designing an intuitive and aesthetically pleasing user interface using Material UI components.",
     image:
-      "https://private-user-images.githubusercontent.com/115268659/286497982-b32c17d2-6ad1-4fb6-831e-b65a64e9ceb3.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDEyMzk3MTIsIm5iZiI6MTcwMTIzOTQxMiwicGF0aCI6Ii8xMTUyNjg2NTkvMjg2NDk3OTgyLWIzMmMxN2QyLTZhZDEtNGZiNi04MzFlLWI2NWE2NGU5Y2ViMy5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMTI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTEyOVQwNjMwMTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NTg2NTQ4MjQ5MDVjYzJmMjZiYWQwMDRiYmQ3NGI3ZWI5MWJiNjhiNDE4YTIzMmM1MzQ3YzlhZjAzNzZjYTIxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.JbSugi7Gpr5sgj-UKIOdPiDGXqITbohXPzcvaBlokV8",
+      "https://i.postimg.cc/s27n1Jpr/chatApp.png",
     tags: [ "NodeJS","ExpressJS","MongoDB","React","Material UI","Axios","Rest API","OpenAI"],
     category: "web app",
     github: "https://github.com/uveshAhmad/Chat-AI",
