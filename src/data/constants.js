@@ -364,7 +364,7 @@ export const projects = [
       
       This project served as an opportunity to demonstrate proficiency in web application development, real-time communication, and database management while delivering an enjoyable and feature-rich online chess experience.`,
     image:
-       "https://photos.google.com/photo/AF1QipNKGyXANGzuMlYOUXMsgv8IR1rufLlVOJO7lvcH",
+       "https://i.postimg.cc/fW1hPMMq/chessApp.png",
     tags: ["HTML","CSS" ,"JavaScript", "EJS" ,"Node Js", "Express Js","SocketIO" ,"MySQL" ,"Redis"],
     category: "web app",
     github: "https://github.com/uveshAhmad/Online-Chess-Game",
@@ -408,7 +408,7 @@ export const projects = [
     description:
       " The Netflix Clone project is designed to replicate the core functionalities of the popular streaming platform Netflix, employing a modern tech stack to ensure a seamless and responsive user experience. The primary technologies used include React, Redux, NodeJS, ExpressJS, Firebase for authentication and hosting, and TMDB API for accessing movie and TV show data.The Netflix Clone project brings together a powerful combination of technologies to create a feature-rich streaming platform. Leveraging React, Redux, Firebase, and TMDB API ensures a robust and scalable application that closely emulates the user experience of the original Netflix platform.",
     image:
-      "https://private-user-images.githubusercontent.com/115268659/286497716-8f3839d4-99d7-4f5e-92bf-8b82d53f75fd.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDEyMzk2MzgsIm5iZiI6MTcwMTIzOTMzOCwicGF0aCI6Ii8xMTUyNjg2NTkvMjg2NDk3NzE2LThmMzgzOWQ0LTk5ZDctNGY1ZS05MmJmLThiODJkNTNmNzVmZC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMTI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTEyOVQwNjI4NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04NDIxNWQwY2M4YjY0YTY4MWZiZTU3OTJmZGMxYjAyOGFjMjU0M2IzZWRiNzMyNTUxZDBjNTU4NDJiNDhjZjI1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.hBgrcYeJSWwon3FpQv47J_4uFiB23TgQKS5NDt2X0Ak",
+      "https://i.postimg.cc/RF4VY49n/netflix.png",
     tags: ["React","Redux","NodeJS","ExpressJS","Firebase","TMDB API"],
     category: "android app",
     github: "https://github.com/uveshAhmad/Netflix-Clone",
@@ -431,7 +431,7 @@ export const projects = [
     description:
       "The Simple Weather App project aims to provide users with a straightforward and visually appealing way to check the current weather conditions for a specific location. This lightweight application will be built using HTML5, CSS3, Tailwind CSS for styling, JavaScript for interactivity, and a Weather API to fetch real-time weather data.The Simple Weather App project demonstrates the use of fundamental web technologies to create a lightweight and efficient application. By integrating a Weather API, users can quickly and easily access current weather information for any location, making it a handy tool for daily use. The emphasis on a clean user interface and responsive design ensures a positive and intuitive experience for users. ",
     image:
-      "https://private-user-images.githubusercontent.com/115268659/286497261-c5196061-b78e-4a58-8ad5-564956c0316f.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDEyMzk1MDMsIm5iZiI6MTcwMTIzOTIwMywicGF0aCI6Ii8xMTUyNjg2NTkvMjg2NDk3MjYxLWM1MTk2MDYxLWI3OGUtNGE1OC04YWQ1LTU2NDk1NmMwMzE2Zi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMTI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTEyOVQwNjI2NDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kMjk4ZTc0YTllMjA0Y2YwYTkzMzA2ZWE0ZDlmN2QxNmRjNDRhNDdiOThkYWZmNDJiYmZlNWYyMTdlYjRlYTQ5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.2gj0uh59oq92JHzU5NOMTfWkLEWs-in-iztz0_5q8ls",
+      "https://i.postimg.cc/dtPvNJBQ/weather-App.png",
     tags: ["HTML5", "CSS3", "Tailwind CSS", "JavaScript" ,"Weather API"],
     category: "android app",
     github: "https://github.com/uveshAhmad/Weather-App",
@@ -453,7 +453,7 @@ export const projects = [
     description:
       " The Personal Portfolio Website project aims to create an engaging and professional online platform for individuals to showcase their skills, projects, and experiences. This website will be developed using React for a dynamic and interactive user interface, Material UI for a polished design, Node.js for server-side functionality, and HTML/CSS for structuring and styling the content.Dynamic Single-Page Application (SPA) ,Material Design Aesthetics: , Resume or CV Section ,Contact Form,Responsive Design ,Dark/Light Mode Toggle  ",
     image:
-      "https://private-user-images.githubusercontent.com/115268659/286500831-f62f78bc-4341-4390-9cb0-fa41f3e0975d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDEyNDA1MzEsIm5iZiI6MTcwMTI0MDIzMSwicGF0aCI6Ii8xMTUyNjg2NTkvMjg2NTAwODMxLWY2MmY3OGJjLTQzNDEtNDM5MC05Y2IwLWZhNDFmM2UwOTc1ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMTI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTEyOVQwNjQzNTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03ZmQ3YTNmYTA4OTQ5YjgzODg5YzZkMjk1NDM5MTliNjZmNmE1ZjBkN2YyMDBkZGRmMjJiMzViZmEyZWFkM2MwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.8dVNsPoAwHuXbLTlo8JZGP0oc1vvX_33qx5Sp8YBffU",
+      "https://i.postimg.cc/Fzqvh4tp/Personal-Portfolio.png",
     tags: ["React", "Material UI",   "Node JS" ,"HTML" ,"CSS" ],
     category: "web app",
     github: "https://github.com/uveshAhmad/Portfolio",
@@ -476,7 +476,7 @@ export const projects = [
     description:
       "The GitHub Profile Searcher() project is a simple and effective web application designed to search for and display GitHub user profiles. This project utilizes fundamental web technologies, including HTML for structure, CSS for styling, JavaScript for interactivity, and leverages the GitHub API for fetching user information. ",
     image:
-      "https://private-user-images.githubusercontent.com/115268659/288313513-25c504dd-5ac3-4564-9527-0b669d7ca925.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE4NDU1OTYsIm5iZiI6MTcwMTg0NTI5NiwicGF0aCI6Ii8xMTUyNjg2NTkvMjg4MzEzNTEzLTI1YzUwNGRkLTVhYzMtNDU2NC05NTI3LTBiNjY5ZDdjYTkyNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIwNlQwNjQ4MTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kYjZmNGIzMWE1Yzc4ZjgyYTk4YWNlOTY4NTllZjI3ZGNkZGZmMWRjY2U3MDc4M2VmMmMwNWUwNTVlZGE2ZDA3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.3NL9RVXoCfu9t0JQRVkaCrpAvyvVQD-YKWbFDTy19Ps",
+      "https://i.postimg.cc/q7mZPGHX/Detective-Github.png",
     tags: ["HTML", "CSS", "JavaScript" , "API" ],
     category: "machine learning",
     github: "https://github.com/uveshAhmad/Detective-GitHub/tree/main",
@@ -499,7 +499,7 @@ export const projects = [
     description:
       " The Interactive Business Card project is a modern take on the traditional business card, leveraging HTML5, CSS3, and JavaScript to create a dynamic and visually engaging online representation. This project aims to showcase personal or business information in an interactive and memorable way.",
     image:
-      "https://private-user-images.githubusercontent.com/115268659/286498640-3db88403-5fae-49bd-9e42-70ac66851c4f.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDEyMzk5MDMsIm5iZiI6MTcwMTIzOTYwMywicGF0aCI6Ii8xMTUyNjg2NTkvMjg2NDk4NjQwLTNkYjg4NDAzLTVmYWUtNDliZC05ZTQyLTcwYWM2Njg1MWM0Zi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMTI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTEyOVQwNjMzMjNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03OWJhYzBhYzlkYjMzOTI1YTUxYzNlOTMxZmRiNDRjZjE3NzE4ZGM3ZWNjY2Y2ZmM0ZTY1YjBiZGQzYzBiMzlkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.9M5LURbXnC9zCueKVejwbBmHHVFJwc33YSPWxYUZ1RY",
+      "https://i.postimg.cc/hvvZ4QcW/buisness-Card.png",
     tags: ["HTML5", "CSS3", "JavaScript",],
     category: "web app",
     github: "https://github.com/uveshAhmad/Buisness-Card",
@@ -522,7 +522,7 @@ export const projects = [
     description:
       " The Random Password Generator project is a web application designed to generate secure and customizable random passwords. This project leverages HTML5 for structure, CSS3 for styling, and JavaScript for interactivity, providing users with a convenient tool to create strong and unique passwords for various purposes.",
     image:
-      "https://private-user-images.githubusercontent.com/115268659/286492660-f91111e3-a797-4541-858e-cf3213f0e84a.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDEyMzgxMTIsIm5iZiI6MTcwMTIzNzgxMiwicGF0aCI6Ii8xMTUyNjg2NTkvMjg2NDkyNjYwLWY5MTExMWUzLWE3OTctNDU0MS04NThlLWNmMzIxM2YwZTg0YS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMTI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTEyOVQwNjAzMzJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMzY5YzE0NDBlMTgxZTZjNTg5YjFlNTBkYzYzOGU0MzYzYTU1ZTExODdhNTkxNjlmY2ZiZDNmMGRkOTY2OWRjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.7AqXOqmvgfPf0CT4jIbc1B1rnbxlPNpd8Xj-XKgAw18",
+      "https://i.postimg.cc/mrTvfDzR/Random-Passw-ord.png",
     tags: [
       "HTML",
       "CSS",
@@ -550,7 +550,7 @@ export const projects = [
     description:
       "The Tic-Tac-Toe Game project is a classic and enjoyable web application that allows users to play the iconic Tic-Tac-Toe game online. Developed with HTML5 for structure, CSS3 for styling, and JavaScript for game logic and interactivity, this project aims to provide a user-friendly and responsive gaming experience. ",
     image:
-      "https://private-user-images.githubusercontent.com/115268659/286495677-0af366e9-328d-4d94-80fa-9dcf8a20d138.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDEyMzkwNTUsIm5iZiI6MTcwMTIzODc1NSwicGF0aCI6Ii8xMTUyNjg2NTkvMjg2NDk1Njc3LTBhZjM2NmU5LTMyOGQtNGQ5NC04MGZhLTlkY2Y4YTIwZDEzOC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMTI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTEyOVQwNjE5MTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01YzEzM2FkNTNkMzIwZjcyMzQ3ZmE4NzljOTM4NDljNzFlN2YxNjNlYjAyOTIzY2M1ZTlkOWUxMjQ4N2RiZjllJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.UHT_YB73vhauKd0HiZgEZ05c7QF5HF2KHU4GrOEExr0",
+      "https://i.postimg.cc/mk1qN1q3/Tic-Tac-Toe.png",
     tags: [ 
       "HTML",
       "CSS",
@@ -577,7 +577,7 @@ export const projects = [
     description:
       " The Modern Chair Shop Website project is a visually appealing and responsive online platform designed to showcase and sell modern chairs. Developed using HTML5 for structure and CSS3 for styling, this project aims to create an engaging and user-friendly web experience for potential customers interested in contemporary chair designs.",
     image:
-      "https://private-user-images.githubusercontent.com/115268659/286500162-47386b38-f65b-4af9-b603-af389bf04da0.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDEyNDAzNDYsIm5iZiI6MTcwMTI0MDA0NiwicGF0aCI6Ii8xMTUyNjg2NTkvMjg2NTAwMTYyLTQ3Mzg2YjM4LWY2NWItNGFmOS1iNjAzLWFmMzg5YmYwNGRhMC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMTI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTEyOVQwNjQwNDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMmRiYTNjMGFkNmE2OWIzNTFmMTY5NGVhNDEyZjczOWU5YjhmZDBkOTdlNDA1MjY2YWQ0YzhmNjUzODc4ZDFlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.C-l0xeF3O8jCsRqyf26hTDWCpy2CCbXLaVwdCO6H6io",
+      "https://i.postimg.cc/15CnNnS7/Modern-Chair.pna",
     tags: ["HTML5", "CSS3" ],
     category: "android app",
     github: "https://github.com/uveshAhmad/Modern-Chair",
@@ -601,7 +601,7 @@ export const projects = [
     description:
       " The Simple Image Gallery project is a straightforward and visually appealing web application that allows users to browse and view a collection of images. Developed with HTML5 for structure and CSS3 for styling, this project aims to create an easy-to-navigate and aesthetically pleasing image gallery.",
     image:
-      "https://private-user-images.githubusercontent.com/115268659/286517102-6f68d071-01c6-4f4b-b97c-bf35d7a35f6d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDEyNDQ2NjcsIm5iZiI6MTcwMTI0NDM2NywicGF0aCI6Ii8xMTUyNjg2NTkvMjg2NTE3MTAyLTZmNjhkMDcxLTAxYzYtNGY0Yi1iOTdjLWJmMzVkN2EzNWY2ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMTI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTEyOVQwNzUyNDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04NmQyODk5ZmM4MTJiNzNlNmMwMTZhODcyNDA1YmZmMTBiNGRjNWZhNTBjMWVlNzdlNGMzOGM0ZTA3Nzk0YTg4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.QkXDz-DPrXsdvl1zuz7JRiBkyVEjqDVN7K9KrXILSr0",
+      "https://i.postimg.cc/B6HHTqpL/image-Gallery.png",
     tags: [
       "HTML",
       "CSS",
