@@ -577,7 +577,7 @@ export const projects = [
     description:
       " The Modern Chair Shop Website project is a visually appealing and responsive online platform designed to showcase and sell modern chairs. Developed using HTML5 for structure and CSS3 for styling, this project aims to create an engaging and user-friendly web experience for potential customers interested in contemporary chair designs.",
     image:
-      "https://i.postimg.cc/15CnNnS7/Modern-Chair.pna",
+      "https://i.postimg.cc/15CnNnS7/Modern-Chair.png",
     tags: ["HTML5", "CSS3" ],
     category: "android app",
     github: "https://github.com/uveshAhmad/Modern-Chair",
